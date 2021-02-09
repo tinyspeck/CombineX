@@ -11,6 +11,8 @@ targets:
     templates: [Framework]
   CXUtility:
     templates: [Framework]
+    dependencies:
+      - target: CXLibc_${platform}
   CXNamespace:
     templates: [Framework]
   CombineX:
@@ -25,6 +27,10 @@ targets:
       - target: CXUtility_${platform}
       - target: CXNamespace_${platform}
       - target: CombineX_${platform}
+  CXCompatible:
+    templates: [Framework]
+    dependencies:
+      - target: CXNamespace_${platform}
 targetTemplates:
   Framework:
     type: framework
@@ -36,4 +42,3 @@ targetTemplates:
       path: Info-carthage.plist
     sources:
       - Sources/${target_name}
-      

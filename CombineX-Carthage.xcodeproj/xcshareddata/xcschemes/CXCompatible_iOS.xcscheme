@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7EB4689A35FA74834928B14"
-               BuildableName = "CXNamespace.framework"
-               BlueprintName = "CXNamespace_watchOS"
+               BlueprintIdentifier = "7F750B61CBB64B3BCF91E351"
+               BuildableName = "CXCompatible.framework"
+               BlueprintName = "CXCompatible_iOS"
                ReferencedContainer = "container:CombineX-Carthage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -33,9 +33,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7EB4689A35FA74834928B14"
-            BuildableName = "CXNamespace.framework"
-            BlueprintName = "CXNamespace_watchOS"
+            BlueprintIdentifier = "7F750B61CBB64B3BCF91E351"
+            BuildableName = "CXCompatible.framework"
+            BlueprintName = "CXCompatible_iOS"
             ReferencedContainer = "container:CombineX-Carthage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7EB4689A35FA74834928B14"
-            BuildableName = "CXNamespace.framework"
-            BlueprintName = "CXNamespace_watchOS"
+            BlueprintIdentifier = "7F750B61CBB64B3BCF91E351"
+            BuildableName = "CXCompatible.framework"
+            BlueprintName = "CXCompatible_iOS"
             ReferencedContainer = "container:CombineX-Carthage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7EB4689A35FA74834928B14"
-            BuildableName = "CXNamespace.framework"
-            BlueprintName = "CXNamespace_watchOS"
+            BlueprintIdentifier = "7F750B61CBB64B3BCF91E351"
+            BuildableName = "CXCompatible.framework"
+            BlueprintName = "CXCompatible_iOS"
             ReferencedContainer = "container:CombineX-Carthage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
